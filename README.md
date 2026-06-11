@@ -44,30 +44,30 @@
 
 #### ARP Capture:
 - [001-wireshark-interface-selected.png](https://github.com/asamandi/Wireshark-Packet-Analysis-Lab/blob/main/Screenshots/001-wireshark-interface-selected.png)
-- 002-arp-capture.png
+- [002-arp-capture.png](https://github.com/asamandi/Wireshark-Packet-Analysis-Lab/blob/main/Screenshots/002-arp-capture.png)
 
 #### DNS Capture:
-- 003-dns-query-response.png
+- [003-dns-query-response.png](https://github.com/asamandi/Wireshark-Packet-Analysis-Lab/blob/main/Screenshots/003-dns-query-response.png)
 
 #### DHCP Capture:
-- 004-dhcp-dora-capture.png
+- [004-dhcp-dora-capture.png](https://github.com/asamandi/Wireshark-Packet-Analysis-Lab/blob/main/Screenshots/004-dhcp-dora-capture.png)
 
 #### ICMP Capture:
-- 005-icmp-ping-capture.png
+- [005-icmp-ping-capture.png](https://github.com/asamandi/Wireshark-Packet-Analysis-Lab/blob/main/Screenshots/005-icmp-ping-capture.png)
 
 #### TCP Capture:
-- 006-tcp-handshake-smb.png
+- [006-tcp-handshake-smb.png](https://github.com/asamandi/Wireshark-Packet-Analysis-Lab/blob/main/Screenshots/006-tcp-handshake-smb.png)
 
 #### Filter IP Address:
-- 007-filter-ip-addr.png
+- [007-filter-ip-addr.png](https://github.com/asamandi/Wireshark-Packet-Analysis-Lab/blob/main/Screenshots/007-filter-ip-addr.png)
 
 #### Filter Examples:
-- 008-filter-examples.png
+- [008-filter-examples.png](https://github.com/asamandi/Wireshark-Packet-Analysis-Lab/blob/main/Screenshots/008-filter-examples.png)
 
 #### Final Verification:
-- 009-final-verification-01.png
-- 009-final-verification-02.png
-- 009-final-verification-03.png
+- [009-final-verification-01.png](https://github.com/asamandi/Wireshark-Packet-Analysis-Lab/blob/main/Screenshots/009-final-verification-01.png)
+- [009-final-verification-02.png](https://github.com/asamandi/Wireshark-Packet-Analysis-Lab/blob/main/Screenshots/009-final-verification-02.png)
+- [009-final-verification-03.png](https://github.com/asamandi/Wireshark-Packet-Analysis-Lab/blob/main/Screenshots/009-final-verification-03.png)
 
 ------------------------------------------------------------
 ### Skills Demonstrated
