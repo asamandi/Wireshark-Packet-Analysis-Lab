@@ -58,11 +58,16 @@
 #### TCP Capture:
 - 006-tcp-handshake-smb.png
 
+#### Filter IP Address:
+- 007-filter-ip-addr.png
+
 #### Filter Examples:
-- 007-filter-examples.png
+- 008-filter-examples.png
 
 #### Final Verification:
-- 008-final-verification.png
+- 009-final-verification-01.png
+- 009-final-verification-02.png
+- 009-final-verification-03.png
 
 ------------------------------------------------------------
 ### Skills Demonstrated
