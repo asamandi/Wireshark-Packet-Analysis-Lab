@@ -58,5 +58,4 @@ Most Likely Cause:
 Fix:
 - Close File Explorer windows, restart the capture, then open \\DC1\IT again.
 
-============================================================
-
+-------------------------------------------------------------
