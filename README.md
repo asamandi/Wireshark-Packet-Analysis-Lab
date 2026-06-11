@@ -43,7 +43,7 @@
 ### Screenshots
 
 #### ARP Capture:
-- https://github.com/asamandi/Wireshark-Packet-Analysis-Lab/blob/main/Screenshots/001-wireshark-interface-selected.png
+- [001-wireshark-interface-selected.png](https://github.com/asamandi/Wireshark-Packet-Analysis-Lab/blob/main/Screenshots/001-wireshark-interface-selected.png)
 - 002-arp-capture.png
 
 #### DNS Capture:
