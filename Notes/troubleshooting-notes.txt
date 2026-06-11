@@ -1,0 +1,62 @@
+============================================================
+              WIRESHARK PACKET ANALYSIS LAB
+              TROUBLESHOOTING NOTES
+============================================================
+
+Problem:
+- No packets appear in Wireshark.
+
+Most Likely Cause:
+- Wrong network adapter selected.
+
+Fix:
+- Select the active Ethernet adapter and restart the capture.
+
+------------------------------------------------------------
+
+Problem:
+- DNS packets do not appear.
+
+Most Likely Cause:
+- DNS result is cached.
+
+Fix:
+- Run ipconfig /flushdns, then run nslookup again.
+
+------------------------------------------------------------
+
+Problem:
+- DHCP packets do not appear.
+
+Most Likely Cause:
+- The client already has a valid lease.
+
+Fix:
+- Run ipconfig /release and ipconfig /renew while Wireshark is capturing.
+
+------------------------------------------------------------
+
+Problem:
+- Ping does not work.
+
+Most Likely Cause:
+- PC1 cannot reach DC1, wrong IP address, or wrong VirtualBox network.
+
+Fix:
+- Confirm both VMs are connected to AD-Lab Internal Network.
+- Check PC1 IP configuration.
+- Check DC1 IP address.
+
+------------------------------------------------------------
+
+Problem:
+- TCP handshake to \\DC1\IT does not appear.
+
+Most Likely Cause:
+- The SMB session was already open.
+
+Fix:
+- Close File Explorer windows, restart the capture, then open \\DC1\IT again.
+
+============================================================
+

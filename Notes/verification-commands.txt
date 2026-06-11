@@ -1,0 +1,32 @@
+============================================================
+              WIRESHARK PACKET ANALYSIS LAB
+              VERIFICATION COMMANDS
+============================================================
+
+VERIFICATION COMMANDS:
+- ipconfig /all
+- arp -d *
+- ping 192.168.10.10
+- ping dc1
+- ipconfig /flushdns
+- nslookup amir.local
+- nslookup dc1.amir.local
+- nslookup fileserver.amir.local
+- ipconfig /release
+- ipconfig /renew
+- dir \\DC1\IT
+
+============================================================
+
+WIRESHARK FILTERS USED:
+- arp
+- dns
+- dhcp
+- bootp
+- icmp
+- tcp
+- tcp.port == 445
+- ip.addr == 192.168.10.10
+- tcp.flags.syn == 1
+
+============================================================
